@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:biyingapi.com)",
+      "mcp__AliWebSearch__bailian_web_search",
+      "Bash(curl -sL --max-time 30 \"https://biyingapi.com/doc_hs\")"
+    ]
+  }
+}

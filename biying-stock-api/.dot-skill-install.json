@@ -1,0 +1,8 @@
+{
+  "host": "claude-code",
+  "command_name": "biying-stock-api",
+  "slug": "biying-stock-api",
+  "version": "v1",
+  "source_artifact": "SKILL.md",
+  "installed_at": "2026-07-25T00:00:00.000000+00:00"
+}
